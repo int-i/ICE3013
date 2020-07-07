@@ -2,7 +2,7 @@
 
 ## Practice
 
-### 1. Implement following simple ftp protocol server with select. Make sure the server can handle multiple clients at the same time. Do not use fork either in the server or in the client. Copy and paste the full source code, output capture, and brief explanation whether it is working or not (and if not where it is not working).
+### 1. Implement following simple ftp protocol server with `select`. Make sure the server can handle multiple clients at the same time. Do not use `fork` either in the server or in the client. Copy and paste the full source code, output capture, and brief explanation whether it is working or not (and if not where it is not working).
 
 Server:
 

@@ -2,7 +2,7 @@
 
 ## Lecture 3 Homework
 
-### 1. Make a file with vi.
+### 1. Make a file with `vi`.
 
 ```bash
 vi f1
@@ -15,27 +15,27 @@ Hello, this is my first session in the vi editor.
 This is the second line of text.
 ```
 
-### 3. Return to command mode with `esc`. Save and exit with `:wq`
+### 3. Return to command mode with `esc`. Save and exit with `:wq`.
 
 ```text
 esc
 :wq
 ```
 
-### 4. Reopen the file
+### 4. Reopen the file.
 
 ```bash
 vi f1
 ```
 
-### 5. Use `j`, `k`, `h`, `l` to move the cursor around. Move the cursor to the word “first”. Use `x` key to delete the word “first”. The result should be as follows.
+### 5. Use `j`, `k`, `h`, `l` to move the cursor around. Move the cursor to the word "first". Use `x` key to delete the word "first". The result should be as follows.
 
 ```text
 Hello, this is my session in the vi editor.
 This is the second line of text.
 ```
 
-### 6. Insert “third” as follows.
+### 6. Insert "third" as follows.
 
 ```text
 Hello, this is my third session in the vi editor.
@@ -154,7 +154,7 @@ $ ls
 d1  d2  ex1  ex1.c  f1  f3  f4
 ```
 
-### 2. Go to “/etc” directory. "file *" will show the information for all files in the current directory. Combine "file *" and "grep" using the pipe symbol(|) to display file information only for text files.
+### 2. Go to "/etc" directory. "file *" will show the information for all files in the current directory. Combine "file *" and "grep" using the pipe symbol(|) to display file information only for text files.
 
 ```bash
 $ cd /etc
@@ -170,7 +170,7 @@ bashrc:                  ASCII text
 brltty.conf:             assembler source, UTF-8 Unicode text
 ```
 
-### 3. Find the location of the password file (“passwd”), the location of C header files such as "stdio.h", and the location of utility programs (or Linux commands) such as “ls”. Use "whereis" commad.
+### 3. Find the location of the password file ("passwd"), the location of C header files such as "stdio.h", and the location of utility programs (or Linux commands) such as "ls". Use "whereis" commad.
 
 ```bash
 $ whereis passwd

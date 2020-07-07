@@ -2,7 +2,7 @@
 
 - Course Number: `ICE3013`
 - Professor: `Kichang Kim`
-- Semester: `18 Spring Semester`
+- Semester: `’18 Spring Semester`
 
 ## Index
 

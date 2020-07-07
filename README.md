@@ -6,6 +6,6 @@
 
 | Semester   | Professor   | Author                           |
 | ---------- | ----------- | -------------------------------- |
-| `18 Spring | Kichang Kim | [Anonymous](./a01/README.md)     |
-| `18 Spring | Kichang Kim | [Anonymous](./a02/README.md)     |
-| `20 Spring | Kichang Kim | [Seungjae Park](./psj/README.md) |
+| ’18 Spring | Kichang Kim | [Anonymous](./a01/README.md)     |
+| ’18 Spring | Kichang Kim | [Anonymous](./a02/README.md)     |
+| ’20 Spring | Kichang Kim | [Seungjae Park](./psj/README.md) |

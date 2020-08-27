@@ -4,7 +4,7 @@
 
 ## Index
 
-| Semester   | Professor   | Author                           |
+| Semester   | Professor   | Student                          |
 | ---------- | ----------- | -------------------------------- |
 | ’18 Spring | Kichang Kim | [Anonymous](./a01/README.md)     |
 | ’18 Spring | Kichang Kim | [Anonymous](./a02/README.md)     |
